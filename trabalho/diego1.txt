@@ -1,0 +1,10 @@
+diego04
+diego1.txt
+diego2.txt
+diego3.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+trab1-2017.txt
